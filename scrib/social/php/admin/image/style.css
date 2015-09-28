@@ -1,0 +1,19 @@
+.save
+{
+background-color:#cc0000;
+color:#fff;
+padding:4px;
+font-size:11px;
+border:solid 1px #cc0000;
+text-weight:bold;
+-moz-border-radius:5px;-webkit-border-radius:5px;
+}
+.cancel
+{
+background-color:#dedede;
+color:#333;
+padding:4px;
+font-size:11px;
+border:solid 1px #dedede;
+-moz-border-radius:5px;-webkit-border-radius:5px;
+}
